@@ -1,0 +1,10 @@
+da601bf26ef2fefc886c6af6065c2346 *DESCRIPTION
+d796bc534b69c74b3ea4899b81edf58b *LICENSE
+c323615c6299bcdf4c596bb8df457aeb *NAMESPACE
+358d3e384628488d0d99c743841636f6 *R/nonLinearDotPlot.R
+cb4924f3573383fca290a0a8e2ca5294 *build/partial.rdb
+d14d1112386a8065e749ae4a96ec9d0f *inst/examples/plots.R
+e80ad71ab77553d4d128fbac3061680c *man/dotscaling.linear.Rd
+4cc19c547f0845604e334bf148b86ef7 *man/dotscaling.log.Rd
+19739d21324b199ed82ea2f0393d53ab *man/dotscaling.root.Rd
+4590dbbfcfa67193bf7e7c6e3411edab *man/nonLinearDotPlot.Rd
